@@ -18,7 +18,7 @@
 #include <fstream>
 #include <string>
 #include <sstream>
-
+#include <omp.h>
 
 
 // TODO: reference additional headers your program requires here
